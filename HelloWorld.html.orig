@@ -18,9 +18,11 @@
         <h1>
             Hello Ganesh, thanks for starting up 
         </h1>
+<<<<<<< HEAD
         <h2>
             <strong>Generic Page</strong> 
-        </h2>        
+        </h2>
+=======
         <div>
             <p>
                 Hello World, I welcome myself to the world of Web Development 
@@ -28,10 +30,8 @@
                 Lets have fun and let get done amount of stuff done 
                 Thanks
             </p>
-            <p>
-                This is second paragraph , lets add more content , we once have something meaningful
-            </p>
         </div>
+>>>>>>> First Paragraph
         <script src="" async defer></script>
     </body>
 </html>
